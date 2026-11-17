@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+third_party/
+*.log
